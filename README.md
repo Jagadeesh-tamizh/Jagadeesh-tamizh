@@ -3,6 +3,7 @@
 - 🌱 currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on Python and C projects
 - 📫 How to reach me LinkedIn @jagadeesh-t-215865210
+- ✨ Sapiosexual
 
 <!---
 Jagadeesh-tamizh/Jagadeesh-tamizh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
