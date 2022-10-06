@@ -1,6 +1,6 @@
 <h1 align="left">Hola amigos👋 Jagadeesh here</h1>
 <h3 align="left">Aka computerphile</h3>
-
+<img align="right"  height="200" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tu9tsj1d12epgpe4f3r911e4uwsz1bp4i20idifu&rid=giphy.gif&ct=g">
 - 🔧Currently deep down in **Data structures and Algorithms**
 
 - 🌱 I’m currently learning **ReactNative and TensorFlow**
@@ -33,4 +33,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagadeesh-tamizh&show_icons=true&locale=en&layout=compact" alt="jagadeesh-tamizh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagadeesh-tamizh&" alt="jagadeesh-tamizh" /></p>
+
+
+- 😹 Let's laugh together
+<img align="left" src="https://media2.giphy.com/media/wcgn5fVDjvR7pdvz4C/200.webp?cid=ecf05e4766lshbkatngv08nnwbju3uthguhqq8w1wwj47po6&rid=200.webp&ct=g">
+
 
