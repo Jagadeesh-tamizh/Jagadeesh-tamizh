@@ -35,7 +35,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagadeesh-tamizh&" alt="jagadeesh-tamizh" /></p>
 
 
-- 😹 Let's laugh together
+- 😹 Let's laugh together.
 <img align="left" src="https://media2.giphy.com/media/wcgn5fVDjvR7pdvz4C/200.webp?cid=ecf05e4766lshbkatngv08nnwbju3uthguhqq8w1wwj47po6&rid=200.webp&ct=g">
 
 
