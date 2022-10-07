@@ -1,6 +1,7 @@
 <h1 align="left">Hola amigos👋 Jagadeesh here</h1>
 <h3 align="left">Aka computerphile</h3>
 <img align="right"  height="200" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tu9tsj1d12epgpe4f3r911e4uwsz1bp4i20idifu&rid=giphy.gif&ct=g">
+
 - 🔧Currently deep down in **Data structures and Algorithms**
 
 - 🌱 I’m currently learning **ReactNative and TensorFlow**
