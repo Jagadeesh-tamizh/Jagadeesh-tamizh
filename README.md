@@ -20,7 +20,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/jagadeesh-tamizh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jagadeesh-tamizh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jagadeesh-t-215865210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagadeesh-t-215865210" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16022422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16022422" height="30" width="40" /></a>
 <a href="https://instagram.com/jaga_.strikas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaga_.strikas" height="30" width="40" /></a>
