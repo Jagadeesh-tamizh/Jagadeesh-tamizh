@@ -4,7 +4,7 @@
 
 - 🔧Currently deep down in **Data structures and Algorithms**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJs** and **NodeJs*
 
 - 🤝 I’m looking to collaborate on **Frontend projects**
 
