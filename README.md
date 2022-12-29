@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking to collaborate on **Frontend projects**
 
-- 💬 Ask me about **reactjs, nodejs**
+- 💬 Ask me about **technology, algorithms, web development**
 
 - 📫 How to reach me **https://t.me/JagaStrikas**
 
