@@ -4,11 +4,11 @@
 
 - 🔧Currently deep down in **Data structures and Algorithms**
 
-- 🌱 I’m currently learning **ReactNative and TensorFlow**
+- 🌱 I’m currently learning **ReactJS**
 
-- 🤝 I’m looking to collaborate on **ReactJS projects**
+- 🤝 I’m looking to collaborate on **Frontend projects**
 
-- 💬 Ask me about **react, Django, TensorFlow**
+- 💬 Ask me about **reactjs, nodejs**
 
 - 📫 How to reach me **https://t.me/JagaStrikas**
 
