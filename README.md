@@ -22,9 +22,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/jagadeesh-t-215865210" target="blank"><img align="center" src="https://img.icons8.com/color/512/linkedin.png" alt="jagadeesh-t-215865210" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/16022422" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="16022422" height="30" width="40" /></a>
-<a href="https://instagram.com/jaga_.strikas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaga_.strikas" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jagadeesh-tamizh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jagadeesh-tamizh" height="30" width="40" /></a>
-<a href="https://discord.gg/JAGAstrikas#6243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JAGAstrikas#6243" height="30" width="40" /></a>
+<a href="https://instagram.com/jaga_.strikas" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/512/instagram-new.png" alt="jaga_.strikas" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/jagadeesh-tamizh" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="jagadeesh-tamizh" height="40" width="40" /></a>
+<a href="https://discord.gg/JAGAstrikas#6243" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/modern-badge-discord-icon_578229-169.jpg?w=2000" alt="JAGAstrikas#6243" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
