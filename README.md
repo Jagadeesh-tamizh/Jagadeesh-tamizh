@@ -6,9 +6,9 @@
 
 - 🔧Currently deep down in **Data structures and Algorithms**
 
-- 🌱 I’m currently learning **ReactJs** and **NodeJs**
+- 🌱 I’m currently learning **Google Cloud** and **NextJs**
 
-- 🤝 I’m looking to collaborate on **Frontend projects**
+- 🤝 I’m looking to collaborate on **Fullstack projects**
 
 - 💬 Ask me about **technology, algorithms, web development**
 
