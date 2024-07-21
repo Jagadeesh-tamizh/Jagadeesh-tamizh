@@ -4,9 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Jagadeesh-tamizh)
 
-- 🔧Currently deep down in **Data structures and Algorithms**
-
-- 🌱 I’m currently learning **ReactJs** and **NodeJs**
+- 🔧Currently deep down in **Angular and C#**
 
 - 🤝 I’m looking to collaborate on **Frontend projects**
 
